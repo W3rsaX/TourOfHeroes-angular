@@ -1,6 +1,6 @@
 # AngularTourOfHeroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.2.
 
 ## Development server
 
@@ -25,3 +25,17 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Versions that I have used:
+
+UI Versions:
+Angular - 18.1.2
+Node: 20.14.0
+npm: 10.7.0
+Bootstrap: 5.3.3
+Angular Material: 18.1.3
+
+Backend Versions:
+Java: 22.0.1
+Maven: 3.9.8
+Spring Boot: 3.3.2
